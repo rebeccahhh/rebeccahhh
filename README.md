@@ -1,7 +1,7 @@
 ### Rebeccah Hunter
-Hi, I'm Beccah(pronouns are she/her). You can usually find me around the internet as @rebeccahhh if I can snag the username.
-I'm a Berea College Graduate with a degree in Computer and Information Science. 
-I currenly work on Ansible's [AWX](https://github.com/ansible/awx) Project.
+Hi, I'm Beccah(pronouns are she/her). You can usually find me around the internet as @rebeccahhh if I can snag the username. </br>
+I'm a Berea College Graduate with a degree in Computer and Information Science. </br>
+I currenly work on Ansible's [AWX](https://github.com/ansible/awx) Project. </br>
 You can check out my github metrics [here](https://metrics.lecoq.io/about/rebeccahhh)
 
 
