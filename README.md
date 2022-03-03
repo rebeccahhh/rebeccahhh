@@ -4,5 +4,4 @@ I'm a [Berea College](https://www.berea.edu) graduate with a degree in Computer 
 
 
 - My Github [metrics](https://metrics.lecoq.io/about/rebeccahhh)
-- [LinkedIn](https://www.linkedin.com/in/rebeccahhh/)
-- Website under construction
+- Feel free to check out my [LinkedIn](https://www.linkedin.com/in/rebeccahhh/)
